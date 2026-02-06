@@ -1,1 +1,1 @@
-# integracao-vertical-horizontal
+# Integração vertical e horizontal
