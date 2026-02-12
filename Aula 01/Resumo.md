@@ -1,4 +1,4 @@
-# Relatório
+# Resumo
 
 ## Contexto Estratégico e Industrial
 
